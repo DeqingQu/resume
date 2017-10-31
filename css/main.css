@@ -13,7 +13,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "opensans-bold";
+    font-family: "Raleway";
     font-weight: 300;
     color: #333;
 }
@@ -166,6 +166,20 @@ a:after {
     background-size: cover;
 }
 
+#headerwrap h1 {
+	font-size: 90px;
+	color: white;
+    font: 90px/1.1em 'opensans-bold', sans-serif;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, .8);
+}
+
+#headerwrap h3 {
+	font-size: 30px;
+	color: white;
+    font: 30px/1.1em 'opensans-bold', sans-serif;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, .8);
+}
+
 #intro .profile-pic {
    position: relative;
    width: 120px;
@@ -173,22 +187,8 @@ a:after {
    border-radius: 100%;
 }
 
-#headerwrap h1 {
-	font-size: 80px;
-	color: white;
-    font: 90px/1.1em 'opensans-bold', sans-serif;
-    text-shadow: 5px 5px 5px rgba(0, 0, 0, .9);
-}
-
-#headerwrap h3 {
-	font-size: 20px;
-	color: white;
-    font: 90px/1.1em 'opensans-bold', sans-serif;
-    text-shadow: 5px 5px 5px rgba(0, 0, 0, .9);
-}
-
 #header-title {
-    padding-top: 150px;
+    padding-top: 170px;
 }
 
 /* Intro Wrap */
