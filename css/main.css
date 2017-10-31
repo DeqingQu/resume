@@ -13,8 +13,10 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
-    font-weight: 300;
+    /*font-family: "opensans-bold";*/
+    /*font-weight: 300;*/
+    font: 90px/1.1em 'opensans-bold', sans-serif;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, .9);
     color: #333;
 }
 
