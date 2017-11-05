@@ -205,7 +205,6 @@ a:after {
 }
 
 #intro i {
-	color: white;
 	font-size: 20px;
 	padding-right: 8px;
 	vertical-align: middle;
@@ -218,6 +217,11 @@ a:after {
 #intro .button {
    margin-top: 20px;
    background: #444;
+}
+
+#intro .button:hover {
+   background: #fff;
+   color: #2B2B2B;
 }
 
 #intro_name {
@@ -330,9 +334,4 @@ sm {
    -webkit-border-radius: 3px;
    -khtml-border-radius: 3px;
    border-radius: 3px;
-}
-
-.button:hover {
-   background-color: #fff;
-   color: #000;
 }
