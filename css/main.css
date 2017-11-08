@@ -169,15 +169,15 @@ a:after {
 #headerwrap h1 {
 	font-size: 90px;
 	color: white;
-    font: 90px/1.1em 'opensans-bold', sans-serif;
-    text-shadow: 5px 5px 5px rgba(0, 0, 0, .8);
+/*    font: 90px/1.1em 'opensans-bold', sans-serif;*/
+/*    text-shadow: 5px 5px 5px rgba(0, 0, 0, .8);*/
 }
 
 #headerwrap h3 {
 	font-size: 30px;
 	color: white;
-    font: 30px/1.1em 'opensans-bold', sans-serif;
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, .8);
+/*    font: 30px/1.1em 'opensans-bold', sans-serif;*/
+/*    text-shadow: 1px 1px 5px rgba(0, 0, 0, .8);*/
 }
 
 #intro .profile-pic {
